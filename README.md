@@ -1,0 +1,1 @@
+I made a professional resume using simple HTML. I used big headings for my name, smaller headings for sections like "Education," and bullet points to list my skills. I also added my profile picture and used lines to separate each part.
